@@ -5,4 +5,5 @@ __pycache__/
 *.pyd
 .simulacionworkspace/
 *.vscode/
-dataset/
+dataset/Darknet.CSV
+dataset/.complete
